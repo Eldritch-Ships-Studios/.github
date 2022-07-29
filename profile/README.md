@@ -1,4 +1,4 @@
-## Hi there 👋
+## 3D art studio. Commissions are open at our website
 
 <!--
 
@@ -10,4 +10,3 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-3D art studio. Commissions are open at our website
