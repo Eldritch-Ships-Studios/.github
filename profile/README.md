@@ -1,4 +1,4 @@
-## 3D art studio. Commissions are open at our website
+## 3D art studio. Commissions are open at our website https://EldritchShips.com
 
 <!--
 
